@@ -1,0 +1,10 @@
+# sbt
+/project/project/
+/project/target/
+/target/
+
+# IntelliJ
+/.bsp/
+/.idea/
+
+/prompt.pdf
